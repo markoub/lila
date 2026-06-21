@@ -1,0 +1,76 @@
+{
+  "boardSize": 220,
+  "bodyFont": 24,
+  "before": {
+    "lineFragments": 1,
+    "textRects": [
+      {
+        "x": 65,
+        "y": 124,
+        "width": 115,
+        "height": 41
+      }
+    ],
+    "button": {
+      "x": -43,
+      "y": 70,
+      "width": 331,
+      "height": 149
+    },
+    "board": {
+      "x": 12,
+      "y": 34,
+      "width": 220,
+      "height": 220
+    },
+    "buttonHorizontalOverflowPx": 111,
+    "textHorizontalOverflowPx": 0,
+    "computed": {
+      "boxSizing": "content-box",
+      "paddingInlineStart": "108px",
+      "paddingInlineEnd": "108px",
+      "paddingBlockStart": "54px",
+      "paddingBlockEnd": "54px",
+      "fontSize": "36px",
+      "maxWidth": "none",
+      "transform": "matrix(1, 0, 0, 1, -165.359, -74.5)",
+      "backgroundColor": "rgb(98, 153, 36)"
+    }
+  },
+  "after": {
+    "lineFragments": 1,
+    "textRects": [
+      {
+        "x": 65,
+        "y": 124,
+        "width": 115,
+        "height": 41
+      }
+    ],
+    "button": {
+      "x": 20,
+      "y": 97,
+      "width": 205,
+      "height": 95
+    },
+    "board": {
+      "x": 12,
+      "y": 34,
+      "width": 220,
+      "height": 220
+    },
+    "buttonHorizontalOverflowPx": 0,
+    "textHorizontalOverflowPx": 0,
+    "computed": {
+      "boxSizing": "border-box",
+      "paddingInlineStart": "45px",
+      "paddingInlineEnd": "45px",
+      "paddingBlockStart": "27px",
+      "paddingBlockEnd": "27px",
+      "fontSize": "36px",
+      "maxWidth": "100%",
+      "transform": "none",
+      "backgroundColor": "rgb(98, 153, 36)"
+    }
+  }
+}
