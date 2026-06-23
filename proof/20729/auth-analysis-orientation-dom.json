@@ -1,0 +1,333 @@
+{
+  "timestamp": "2026-06-23T17:00:49.907Z",
+  "before": {
+    "url": "http://localhost:9663/RKpfA001",
+    "bodyClass": "system coords-in simple-board",
+    "boardChain": [
+      {
+        "tag": "CG-BOARD",
+        "id": "",
+        "cls": "",
+        "text": ""
+      },
+      {
+        "tag": "CG-CONTAINER",
+        "id": "",
+        "cls": "",
+        "text": "12345678abcdefgh"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "cg-wrap cgv1 orientation-white manipulable",
+        "text": "12345678abcdefgh"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__board main-board",
+        "text": "12345678abcdefgh"
+      },
+      {
+        "tag": "MAIN",
+        "id": "",
+        "cls": "analyse variant-racingKings",
+        "text": "12345678abcdefghFSF 14+NNUEin local browser1Nd3Nc30-1Black is victoriousMove timesShare & exportFENI"
+      },
+      {
+        "tag": "DIV",
+        "id": "main-wrap",
+        "cls": "is2d",
+        "text": "12345678abcdefghFSF 14+NNUEin local browser1Nd3Nc30-1Black is victoriousMove timesShare & exportFENI"
+      },
+      {
+        "tag": "BODY",
+        "id": "",
+        "cls": "system coords-in simple-board",
+        "text": "Accessibility - Enable blind modeYour network blocks the Lichess assets!\n\n\nlichess.devPlaylichess.or"
+      },
+      {
+        "tag": "HTML",
+        "id": "",
+        "cls": "light",
+        "text": "rkproof231046  Stockfish level 1 vs rkproof231046: Analysis board • lichess.dev\n@font-face {font-fam"
+      }
+    ],
+    "coords": [
+      {
+        "cls": "ranks",
+        "text": "12345678"
+      },
+      {
+        "cls": "files",
+        "text": "abcdefgh"
+      }
+    ],
+    "anyOrientation": [
+      {
+        "tag": "BODY",
+        "id": "",
+        "cls": "system coords-in simple-board"
+      },
+      {
+        "tag": "DIV",
+        "id": "main-wrap",
+        "cls": "is2d"
+      },
+      {
+        "tag": "MAIN",
+        "id": "",
+        "cls": "analyse variant-racingKings"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__board main-board"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__player_strip top"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__player_strip bottom"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "cg-wrap cgv1 orientation-white manipulable"
+      },
+      {
+        "tag": "COORDS",
+        "id": "",
+        "cls": "ranks"
+      },
+      {
+        "tag": "COORDS",
+        "id": "",
+        "cls": "files"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__tools"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__moves areplay"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__controls analyse-controls"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__underboard"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__underboard__menu"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__underboard__panels"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "copy-me analyse__underboard__fen"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__round-training"
+      },
+      {
+        "tag": "ASIDE",
+        "id": "",
+        "cls": "analyse__side"
+      }
+    ],
+    "visibleText": "Accessibility - Enable blind mode\nlichess.dev\nPLAY\nPUZZLES\nLEARN\nWATCH\nCOMMUNITY\nTOOLS\nDONATE\nrkproof231046\n1\n2\n3\n4\n5\n6\n7\n8\na\nb\nc\nd\ne\nf\ng\nh\nFSF 14+NNUE\nin local browser\n1\nNd3\nNc3\n0-1\nBlack is victorious\nMove times\nShare & export\n∞ • Casual • RACING KINGS\n42 minutes ago\nStockfish level 1\nrkproof231046 (1500?)\nFinished • Black is victorious\nSpectator room\nNotes\n friends online",
+    "practiceText": []
+  },
+  "after": {
+    "url": "http://localhost:9663/RKpfA001#3",
+    "bodyClass": "system coords-in simple-board offline",
+    "boardChain": [
+      {
+        "tag": "CG-BOARD",
+        "id": "",
+        "cls": "",
+        "text": ""
+      },
+      {
+        "tag": "CG-CONTAINER",
+        "id": "",
+        "cls": "",
+        "text": "12345678abcdefgh"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "cg-wrap cgv1 manipulable orientation-black",
+        "text": "12345678abcdefgh"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__board main-board",
+        "text": "+512345678abcdefgh"
+      },
+      {
+        "tag": "MAIN",
+        "id": "",
+        "cls": "analyse variant-racingKings gauge-on",
+        "text": "+512345678abcdefghCasual600 kNodesFSF 14+NNUEToggle difficulty1Nd3Nc3+2.52Nxb2+2.70-1Black is victor"
+      },
+      {
+        "tag": "DIV",
+        "id": "main-wrap",
+        "cls": "is2d",
+        "text": "+512345678abcdefghCasual600 kNodesFSF 14+NNUEToggle difficulty1Nd3Nc3+2.52Nxb2+2.70-1Black is victor"
+      },
+      {
+        "tag": "BODY",
+        "id": "",
+        "cls": "system coords-in simple-board offline",
+        "text": "Accessibility - Enable blind modeYour network blocks the Lichess assets!\n\n\nlichess.devPlaylichess.or"
+      },
+      {
+        "tag": "HTML",
+        "id": "",
+        "cls": "light",
+        "text": "rkproof231046  Stockfish level 1 vs rkproof231046: Analysis board • lichess.dev\n@font-face {font-fam"
+      }
+    ],
+    "coords": [
+      {
+        "cls": "ranks black",
+        "text": "12345678"
+      },
+      {
+        "cls": "files black",
+        "text": "abcdefgh"
+      }
+    ],
+    "anyOrientation": [
+      {
+        "tag": "BODY",
+        "id": "",
+        "cls": "system coords-in simple-board offline"
+      },
+      {
+        "tag": "DIV",
+        "id": "main-wrap",
+        "cls": "is2d"
+      },
+      {
+        "tag": "MAIN",
+        "id": "",
+        "cls": "analyse variant-racingKings gauge-on"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__board main-board"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__player_strip top"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__player_strip bottom"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "cg-wrap cgv1 manipulable orientation-black"
+      },
+      {
+        "tag": "COORDS",
+        "id": "",
+        "cls": "ranks black"
+      },
+      {
+        "tag": "COORDS",
+        "id": "",
+        "cls": "files black"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__tools"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__moves areplay"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__controls analyse-controls"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__underboard"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__underboard__menu"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__underboard__panels"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "copy-me analyse__underboard__fen"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "cls": "analyse__round-training"
+      },
+      {
+        "tag": "ASIDE",
+        "id": "",
+        "cls": "analyse__side"
+      }
+    ],
+    "visibleText": "Accessibility - Enable blind mode\nlichess.dev\nPLAY\nPUZZLES\nLEARN\nWATCH\nCOMMUNITY\nTOOLS\nDONATE\nrkproof231046\n+5\n1\n2\n3\n4\n5\n6\n7\n8\na\nb\nc\nd\ne\nf\ng\nh\n\nCasual\n\n600 kNodes\n\nFSF 14+NNUE\nToggle difficulty\n1\nNd3\nNc3\n+2.5\n2\nNxb2\n+2.7\n0-1\nBlack is victorious\nPractice with computer\nYour turn\nGet a hint\nMove times\nShare & export\n∞ • Casual • RACING KINGS\n42 minutes ago\nStockfish level 1\nrkproof231046 (1500?)\nFinished • Black is victorious\nSpectator room\nNotes\n friends online\nReconnecting",
+    "practiceText": [
+      "rkproof231046  Stockfish level 1 vs rkproof231046: Analysis board • lichess.dev\n@font-face {font-family: 'lichess';font-display: block;src: url('http://localhost:9663/assets/hashed/lichess.2a2cb52f.woff2') format('woff2')}\n:root{---white-king:url(http://localhost:9663/assets/hashed/wK.6a015951.svg);---white-queen:url(http://localhost:9663/assets/hashed/wQ.c3dc7fce.svg);---white-rook:url(http://localhost:9663/assets/hashed/wR.53013fc8.svg);---white-bishop:url(http://localhost:9663/assets/hashed/wB.b7d1a118.svg);---white-knight:url(http://localhost:9663/assets/hashed/wN.ef4cde0a.svg);---white-pawn:url(http://localhost:9663/assets/hashed/wP.0596b7ce.svg);---black-king:url(http://localhost:9663/assets/hashed/bK.b83f0a15.svg);---black-queen:url(http://localhost:9663/assets/hashed/bQ.b60573d7.svg);---black-rook:url(http://localhost:9663/assets/hashed/bR.7b4fa825.svg);---black-bishop:url(http://localhost:9663/assets/hashed/bB.77e9debf.svg);---black-knight:url(http://localhost:9663/assets/hashed/bN.28c70309.svg);---black-pawn:url(http://localhost:9663/assets/hashed/bP.09539f32.svg);}if (window.matchMedia('(prefers-color-scheme: light)')?.matches) document.documentElement.classList.add('light');Accessibility - Enable blind modeYour network blocks the Lichess assets!\n\n\nlichess.devPlaylichess.orgCreate lobby gameArena tournamentsSwiss tournamentsSimultaneous exhibitionsDonatePuzzlesPuzzlesPuzzle ThemesPuzzle DashboardPuzzle StreakPuzzle StormPuzzle RacerLearnChess basicsPracticeCoordinatesStudyCoachesWatchBroadcastsLichess TVCurrent gamesStreamersVideo libraryCommunityPlayersFriendsTeamsForumBlogToolsAnalysis boardOpeningsBoard editorImport gameAdvanced searchDonate\n\n\n\nrkproof231046+512345678abcdefghCasual600 kNodesFSF 14+NNUEToggle difficulty1Nd3Nc3+2.52Nxb2+2.70-1Black is victoriousPractice with computerYour turnGet a hintMove timesShare & exportFENImageGame as GIFScreenshot current positionShareEmbed in your websitePGNDownload annotatedDownload raw[Event \"casual variant:racingKings game\"]\n[Site \"http://localhost:9663/RKpfA001\"]\n[Date \"2026.06.23\"]\n[Round \"-\"]\n[White \"lichess AI level 1\"]\n[Black \"rkproof231046\"]\n[Result \"0-1\"]\n[GameId \"RKpfA001\"]\n[UTCDate \"2026.06.23\"]\n[UTCTime \"16:18:41\"]\n[WhiteElo \"?\"]\n[BlackElo \"1500\"]\n[Variant \"Racing Kings\"]\n[TimeControl \"-\"]\n[ECO \"?\"]\n[Opening \"?\"]\n[Termination \"Unknown\"]\n[Annotator \"localhost:9663\"]\n\n1. Nd3 Nc3 { Black wins. } 0-1∞ • Casual • RACING KINGS42 minutes agoStockfish level 1rkproof231046 (1500?)Finished • Black is victoriousSpectator roomNotes friends onlineReconnecting(function(){window.site||(window.site={}),window.site.load||(window.site.load=new Promise(function(i){document.addEventListener(\"DOMContentLoaded\",function(){i()})}));\n})()site.load.then(()=>{site.asset.loadEsmPage('analyse.user')})",
+      "Accessibility - Enable blind modeYour network blocks the Lichess assets!\n\n\nlichess.devPlaylichess.orgCreate lobby gameArena tournamentsSwiss tournamentsSimultaneous exhibitionsDonatePuzzlesPuzzlesPuzzle ThemesPuzzle DashboardPuzzle StreakPuzzle StormPuzzle RacerLearnChess basicsPracticeCoordinatesStudyCoachesWatchBroadcastsLichess TVCurrent gamesStreamersVideo libraryCommunityPlayersFriendsTeamsForumBlogToolsAnalysis boardOpeningsBoard editorImport gameAdvanced searchDonate\n\n\n\nrkproof231046+512345678abcdefghCasual600 kNodesFSF 14+NNUEToggle difficulty1Nd3Nc3+2.52Nxb2+2.70-1Black is victoriousPractice with computerYour turnGet a hintMove timesShare & exportFENImageGame as GIFScreenshot current positionShareEmbed in your websitePGNDownload annotatedDownload raw[Event \"casual variant:racingKings game\"]\n[Site \"http://localhost:9663/RKpfA001\"]\n[Date \"2026.06.23\"]\n[Round \"-\"]\n[White \"lichess AI level 1\"]\n[Black \"rkproof231046\"]\n[Result \"0-1\"]\n[GameId \"RKpfA001\"]\n[UTCDate \"2026.06.23\"]\n[UTCTime \"16:18:41\"]\n[WhiteElo \"?\"]\n[BlackElo \"1500\"]\n[Variant \"Racing Kings\"]\n[TimeControl \"-\"]\n[ECO \"?\"]\n[Opening \"?\"]\n[Termination \"Unknown\"]\n[Annotator \"localhost:9663\"]\n\n1. Nd3 Nc3 { Black wins. } 0-1∞ • Casual • RACING KINGS42 minutes agoStockfish level 1rkproof231046 (1500?)Finished • Black is victoriousSpectator roomNotes friends onlineReconnecting(function(){window.site||(window.site={}),window.site.load||(window.site.load=new Promise(function(i){document.addEventListener(\"DOMContentLoaded\",function(){i()})}));\n})()site.load.then(()=>{site.asset.loadEsmPage('analyse.user')})",
+      "+512345678abcdefghCasual600 kNodesFSF 14+NNUEToggle difficulty1Nd3Nc3+2.52Nxb2+2.70-1Black is victoriousPractice with computerYour turnGet a hintMove timesShare & exportFENImageGame as GIFScreenshot current positionShareEmbed in your websitePGNDownload annotatedDownload raw[Event \"casual variant:racingKings game\"]\n[Site \"http://localhost:9663/RKpfA001\"]\n[Date \"2026.06.23\"]\n[Round \"-\"]\n[White \"lichess AI level 1\"]\n[Black \"rkproof231046\"]\n[Result \"0-1\"]\n[GameId \"RKpfA001\"]\n[UTCDate \"2026.06.23\"]\n[UTCTime \"16:18:41\"]\n[WhiteElo \"?\"]\n[BlackElo \"1500\"]\n[Variant \"Racing Kings\"]\n[TimeControl \"-\"]\n[ECO \"?\"]\n[Opening \"?\"]\n[Termination \"Unknown\"]\n[Annotator \"localhost:9663\"]\n\n1. Nd3 Nc3 { Black wins. } 0-1∞ • Casual • RACING KINGS42 minutes agoStockfish level 1rkproof231046 (1500?)Finished • Black is victoriousSpectator roomNotes",
+      "+512345678abcdefghCasual600 kNodesFSF 14+NNUEToggle difficulty1Nd3Nc3+2.52Nxb2+2.70-1Black is victoriousPractice with computerYour turnGet a hintMove timesShare & exportFENImageGame as GIFScreenshot current positionShareEmbed in your websitePGNDownload annotatedDownload raw[Event \"casual variant:racingKings game\"]\n[Site \"http://localhost:9663/RKpfA001\"]\n[Date \"2026.06.23\"]\n[Round \"-\"]\n[White \"lichess AI level 1\"]\n[Black \"rkproof231046\"]\n[Result \"0-1\"]\n[GameId \"RKpfA001\"]\n[UTCDate \"2026.06.23\"]\n[UTCTime \"16:18:41\"]\n[WhiteElo \"?\"]\n[BlackElo \"1500\"]\n[Variant \"Racing Kings\"]\n[TimeControl \"-\"]\n[ECO \"?\"]\n[Opening \"?\"]\n[Termination \"Unknown\"]\n[Annotator \"localhost:9663\"]\n\n1. Nd3 Nc3 { Black wins. } 0-1∞ • Casual • RACING KINGS42 minutes agoStockfish level 1rkproof231046 (1500?)Finished • Black is victoriousSpectator roomNotes",
+      "Casual600 kNodesFSF 14+NNUEToggle difficulty1Nd3Nc3+2.52Nxb2+2.70-1Black is victoriousPractice with computerYour turnGet a hint",
+      "Practice with computerYour turnGet a hint",
+      "Practice with computer",
+      "Your turnGet a hint",
+      "Your turnGet a hint",
+      "Your turnGet a hint",
+      "Your turn",
+      "Get a hint",
+      "Get a hint"
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-06-23T17:02:46.121Z",
+  "results": [
+    {
+      "name": "study-normal-current",
+      "url": "http://localhost:9663/study/jUKwWT93/mhs2R0iq",
+      "assets": [
+        {
+          "url": "http://localhost:9663/assets/compiled/manifest.99946402.js",
+          "status": 200
+        },
+        {
+          "url": "http://localhost:9663/assets/compiled/lib.5PH3ZIOZ.js",
+          "status": 200
+        },
+        {
+          "url": "http://localhost:9663/assets/compiled/analyse.study.RCIOLHOZ.js",
+          "status": 200
+        }
+      ],
+      "before": {
+        "url": "http://localhost:9663/study/jUKwWT93/mhs2R0iq",
+        "title": "rkproof231046 rkproof231046's Study • lichess.dev",
+        "mainClass": "analyse variant-racingKings has-players",
+        "wrapClass": "cg-wrap cgv1 orientation-white manipulable",
+        "coords": [
+          {
+            "cls": "ranks",
+            "text": "12345678"
+          },
+          {
+            "cls": "files",
+            "text": "abcdefgh"
+          }
+        ],
+        "textSample": "Accessibility - Enable blind mode\nlichess.dev\nPLAY\nPUZZLES\nLEARN\nWATCH\nCOMMUNITY\nTOOLS\nDONATE\nrkproof231046\n1\n2\n3\n4\n5\n6\n7\n8\na\nb\nc\nd\ne\nf\ng\nh\nFSF 14+NNUE\nin local browser\nSYNC\nREC\nrkproof231046's Study: Chapter 1\n1\nManage topics\nVariant\t\nRacing Kings\n\n\nNew tag\nWhite\nWhiteElo\nWhiteTitle\nWhiteTeam\nWhiteFideId\nBlack\nBlackElo\nBlackTitle\nBlackTeam\nBlackFideId\nTimeControl\nDate\nResult\nTermination\nSite\nEvent\nRound\nBoard\nAnnotator\nGameId\n\t\n1 Chapter\n1 Member\nrkproof231046\nAdd members\nChat room\n friends onl",
+        "hasPracticePanel": false,
+        "hasYourTurn": false
+      },
+      "after": {
+        "url": "http://localhost:9663/study/jUKwWT93/mhs2R0iq",
+        "title": "rkproof231046 rkproof231046's Study • lichess.dev",
+        "mainClass": "analyse variant-racingKings has-players gauge-on",
+        "wrapClass": "cg-wrap cgv1 orientation-white manipulable",
+        "coords": [
+          {
+            "cls": "ranks",
+            "text": "12345678"
+          },
+          {
+            "cls": "files",
+            "text": "abcdefgh"
+          }
+        ],
+        "textSample": "Accessibility - Enable blind mode\nlichess.dev\nPLAY\nPUZZLES\nLEARN\nWATCH\nCOMMUNITY\nTOOLS\nDONATE\nrkproof231046\n1\n2\n3\n4\n5\n6\n7\n8\na\nb\nc\nd\ne\nf\ng\nh\n\nCasual\n\n600 kNodes\n\nFSF 14+NNUE\nToggle difficulty\nPractice with computer\nYour turn\nGet a hint\nSYNC\nREC\nrkproof231046's Study: Chapter 1\n1\nManage topics\nVariant\t\nRacing Kings\n\n\nNew tag\nWhite\nWhiteElo\nWhiteTitle\nWhiteTeam\nWhiteFideId\nBlack\nBlackElo\nBlackTitle\nBlackTeam\nBlackFideId\nTimeControl\nDate\nResult\nTermination\nSite\nEvent\nRound\nBoard\nAnnotator\nGameId\n\t\n1",
+        "hasPracticePanel": true,
+        "hasYourTurn": true
+      },
+      "screenshots": {
+        "before": "/tmp/lichess-proof-20729/study-normal-current-before.png",
+        "after": "/tmp/lichess-proof-20729/study-normal-current-practice.png"
+      }
+    },
+    {
+      "name": "imported-legal-current",
+      "url": "http://localhost:9663/sBkTDw6f",
+      "assets": [
+        {
+          "url": "http://localhost:9663/assets/compiled/manifest.99946402.js",
+          "status": 200
+        },
+        {
+          "url": "http://localhost:9663/assets/compiled/analyse.user.TYLCDZ3S.js",
+          "status": 200
+        },
+        {
+          "url": "http://localhost:9663/assets/compiled/lib.5PH3ZIOZ.js",
+          "status": 200
+        }
+      ],
+      "before": {
+        "url": "http://localhost:9663/sBkTDw6f",
+        "title": "rkproof231046 Stockfish level 1 vs rkproof231046: Analysis board • lichess.dev",
+        "mainClass": "analyse variant-racingKings",
+        "wrapClass": "cg-wrap cgv1 orientation-white manipulable",
+        "coords": [
+          {
+            "cls": "ranks",
+            "text": "12345678"
+          },
+          {
+            "cls": "files",
+            "text": "abcdefgh"
+          }
+        ],
+        "textSample": "Accessibility - Enable blind mode\nlichess.dev\nPLAY\nPUZZLES\nLEARN\nWATCH\nCOMMUNITY\nTOOLS\nDONATE\nrkproof231046\n1\n2\n3\n4\n5\n6\n7\n8\na\nb\nc\nd\ne\nf\ng\nh\nFSF 14+NNUE\nin local browser\n1\nNd3\nNc3\n0-1\nBlack is victorious\nShare & export\nFEN\nImage\nGame as GIF\nScreenshot current position\nShare\nEmbed in your website\nPGN\nDownload annotated\nDownload raw\nDownload imported\n[Event \"Local proof\"]\n[Site \"http://localhost:9663\"]\n[Date \"2026.06.23\"]\n[Round \"-\"]\n[White \"Stockfish level 1\"]\n[Black \"rkproof231046\"]\n[Result \"0-1\"",
+        "hasPracticePanel": false,
+        "hasYourTurn": false
+      },
+      "after": {
+        "url": "http://localhost:9663/sBkTDw6f",
+        "title": "rkproof231046 Stockfish level 1 vs rkproof231046: Analysis board • lichess.dev",
+        "mainClass": "analyse variant-racingKings gauge-on",
+        "wrapClass": "cg-wrap cgv1 orientation-white manipulable",
+        "coords": [
+          {
+            "cls": "ranks",
+            "text": "12345678"
+          },
+          {
+            "cls": "files",
+            "text": "abcdefgh"
+          }
+        ],
+        "textSample": "Accessibility - Enable blind mode\nlichess.dev\nPLAY\nPUZZLES\nLEARN\nWATCH\nCOMMUNITY\nTOOLS\nDONATE\nrkproof231046\n1\n2\n3\n4\n5\n6\n7\n8\na\nb\nc\nd\ne\nf\ng\nh\n\nCasual\n\n600 kNodes\n\nFSF 14+NNUE\nToggle difficulty\n1\nNd3\nNc3\n0-1\nBlack is victorious\nPractice with computer\nYour turn\nGet a hint\nShare & export\nFEN\nImage\nGame as GIF\nScreenshot current position\nShare\nEmbed in your website\nPGN\nDownload annotated\nDownload raw\nDownload imported\n[Event \"Local proof\"]\n[Site \"http://localhost:9663\"]\n[Date \"2026.06.23\"]\n[Round \"-\"]",
+        "hasPracticePanel": true,
+        "hasYourTurn": true
+      },
+      "screenshots": {
+        "before": "/tmp/lichess-proof-20729/imported-legal-current-before.png",
+        "after": "/tmp/lichess-proof-20729/imported-legal-current-practice.png"
+      }
+    }
+  ]
+}
