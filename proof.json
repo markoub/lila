@@ -1,0 +1,249 @@
+{
+  "title": "lichess.dev • Free Online Chess",
+  "siteDefined": "object",
+  "buttonCount": 1,
+  "hasPlayComputerText": true,
+  "hasSetupDialog": true,
+  "selectedBeforeClose": "black",
+  "selectedAfterReopen": "black",
+  "setupStorageBeforeClose": "{\"variant\":\"standard\",\"fen\":\"\",\"timeMode\":\"unlimited\",\"time\":5,\"increment\":3,\"days\":2,\"gameMode\":\"casual\",\"color\":\"black\",\"ratingMin\":-500,\"ratingMax\":500,\"aiLevel\":1}",
+  "setupStorageAfterReopen": "{\"variant\":\"standard\",\"fen\":\"\",\"timeMode\":\"unlimited\",\"time\":5,\"increment\":3,\"days\":2,\"gameMode\":\"casual\",\"color\":\"black\",\"ratingMin\":-500,\"ratingMax\":500,\"aiLevel\":1}",
+  "screenshotBeforeClose": "/Users/m.milosevic/projects/oss/oss-vault/03-proof/lichess-20476/before-close.png",
+  "screenshotAfterReopen": "/Users/m.milosevic/projects/oss/oss-vault/03-proof/lichess-20476/after-reopen.png",
+  "responses": [
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/css/site.3507897d.css"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/css/lobby.7b643a17.css"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/css/lib.theme.all.9aab63e5.css"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/manifest.701fd746.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/site.MW7TBKKG.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.TA5VHR6J.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.DFXQUJVH.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.KCUND6YH.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.CXNMCULU.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.HSCHJ37I.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.TSMVECCD.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/i18n/timeago.en-US.c5b087b5c613.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.B3EA62FK.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.3LITBXMN.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.FJRKW6M5.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/i18n/preferences.en-US.d67e6dde26a3.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.NNS7OYZ5.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.5SXUJMQF.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.XFZVTN5L.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/i18n/variant.en-US.aff7e7ce3fe8.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.LYPETE66.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.ILS4LNPZ.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.GSUEVEQG.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.3SKO5P55.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.NNKKJXPM.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.7X5PIGBR.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.23HTWUBN.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.B2FZIUQB.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.2L7Z4FRN.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.MNYPNH5R.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.XSFJ536Q.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.SXT7PCYI.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.NBRJISD2.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.SPL2WW35.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.IIK424NO.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.PWML46QS.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.AKI6FZ2B.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.TYKOU6RR.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.4ZO2G2WA.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lib.UVMTZBJW.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/lobby.YYOYOWTB.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/compiled/i18n/site.en-US.8bdc1a86e0a2.js"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/css/lobby.setup.7b2cadeb.css"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:9663/assets/css/bits.dialog.566e1707.css"
+    }
+  ],
+  "console": [
+    {
+      "type": "error",
+      "text": "WebSocket connection to 'ws://localhost:9664/lobby/socket/v5?sri=sSkDxQdhCv8F&from=website' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+    },
+    {
+      "type": "debug",
+      "text": "error: [object Event] {\"isTrusted\":true}"
+    },
+    {
+      "type": "debug",
+      "text": "Will autoreconnect in 3500"
+    },
+    {
+      "type": "info",
+      "text": "Lichess is open source! See https://lichess.org/source"
+    },
+    {
+      "type": "debug",
+      "text": "Disconnect"
+    },
+    {
+      "type": "debug",
+      "text": "connection attempt to ws://localhost:9664/lobby/socket/v5?sri=sSkDxQdhCv8F&from=website"
+    },
+    {
+      "type": "error",
+      "text": "WebSocket connection to 'ws://localhost:9664/lobby/socket/v5?sri=sSkDxQdhCv8F&from=website' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+    },
+    {
+      "type": "debug",
+      "text": "error: [object Event] {\"isTrusted\":true}"
+    },
+    {
+      "type": "debug",
+      "text": "Will autoreconnect in 3500"
+    },
+    {
+      "type": "debug",
+      "text": "Disconnect"
+    },
+    {
+      "type": "debug",
+      "text": "connection attempt to ws://localhost:9664/lobby/socket/v5?sri=sSkDxQdhCv8F&from=website"
+    },
+    {
+      "type": "error",
+      "text": "WebSocket connection to 'ws://localhost:9664/lobby/socket/v5?sri=sSkDxQdhCv8F&from=website' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+    },
+    {
+      "type": "debug",
+      "text": "error: [object Event] {\"isTrusted\":true}"
+    },
+    {
+      "type": "debug",
+      "text": "Will autoreconnect in 3500"
+    }
+  ]
+}
