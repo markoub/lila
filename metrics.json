@@ -1,0 +1,24 @@
+{
+  "before": {
+    "name": "before",
+    "viewport": 330,
+    "documentScrollWidth": 347,
+    "bodyScrollWidth": 347,
+    "lobbyWidth": 346.92,
+    "lobbyScrollWidth": 347,
+    "blogWidth": 346.92,
+    "blogClientWidth": 347,
+    "blogScrollWidth": 4284
+  },
+  "after": {
+    "name": "after",
+    "viewport": 330,
+    "documentScrollWidth": 330,
+    "bodyScrollWidth": 330,
+    "lobbyWidth": 330,
+    "lobbyScrollWidth": 330,
+    "blogWidth": 330,
+    "blogClientWidth": 330,
+    "blogScrollWidth": 4284
+  }
+}
