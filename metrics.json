@@ -1,24 +1,29 @@
 {
   "before": {
-    "name": "before",
+    "label": "live-before",
     "viewport": 330,
     "documentScrollWidth": 347,
     "bodyScrollWidth": 347,
     "lobbyWidth": 346.92,
     "lobbyScrollWidth": 347,
-    "blogWidth": 346.92,
-    "blogClientWidth": 347,
-    "blogScrollWidth": 4284
+    "toursWidth": 346.92,
+    "toursClientWidth": 347,
+    "toursScrollWidth": 347,
+    "toursMinWidth": "auto",
+    "toursMaxWidth": "none"
   },
   "after": {
-    "name": "after",
+    "label": "live-after-targeted-tours-rule",
     "viewport": 330,
     "documentScrollWidth": 330,
     "bodyScrollWidth": 330,
     "lobbyWidth": 330,
     "lobbyScrollWidth": 330,
-    "blogWidth": 330,
-    "blogClientWidth": 330,
-    "blogScrollWidth": 4284
-  }
+    "toursWidth": 330,
+    "toursClientWidth": 330,
+    "toursScrollWidth": 330,
+    "toursMinWidth": "0px",
+    "toursMaxWidth": "100%"
+  },
+  "rule": ".lobby__tournaments-simuls{min-width:0;max-width:100%;}"
 }
